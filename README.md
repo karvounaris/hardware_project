@@ -69,7 +69,7 @@ This project implements a UART-based communication system using Verilog. It cons
 - Konstantina Bosinaki
 
 ## 📬 Contact
-For questions or collaboration, feel free to reach out via GitHub or email.
+For questions or collaboration, feel free to reach out via GitHub.
 
 ---
 
