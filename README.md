@@ -65,8 +65,8 @@ This project implements a UART-based communication system using Verilog. It cons
 - Future Work: Extend the system for additional displays and implement advanced error correction techniques.
 
 ## 🤝 Contributors
-- Panagiotis Karvounaris
-- Konstantina Bosinaki
+- [Panagiotis Karvounaris](https://github.com/karvounaris)
+- [Konstantina Bosinaki](https://github.com/Nantina)
 
 ## 📬 Contact
 For questions or collaboration, feel free to reach out via GitHub.
